@@ -1,2 +1,2 @@
-# Lab
+# DiceRoller
 Lab TH
